@@ -1,2 +1,2 @@
 # Tokyo-Olympic-Azure-Data-Engineering-Project
-This reposetory contains the data used for the the Tokyo Olympic Data Engineering Project using Azure Platform. 
+This reposetory contains the data used for the Analytics of Tokyo Olympics Project using Azure Platform. 
